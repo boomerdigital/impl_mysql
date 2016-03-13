@@ -1,0 +1,14 @@
+{
+  "name": "boomerdigital-impl_mysql",
+  "version": "0.1.0",
+  "author": "boomerdigital",
+  "summary": "Company-level mysql setup",
+  "license": "proprietary",
+  "source": "https://github.com/boomerdigital/impl_mysql",
+  "project_page": "https://github.com/boomerdigital/impl_mysql",
+  "issues_url": "https://github.com/boomerdigital/impl_mysql/issues",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
