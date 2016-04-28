@@ -21,7 +21,7 @@ class impl_mysql {
       'character-set-server' => 'utf8',
       'collation-server'     => 'utf8_unicode_ci',
       'init-connect'         => 'SET NAMES utf8',
-      'max_connections'      => '512',
+      'max_connections'      => '1000',
       'gtid-mode'                 => 'ON',
       'enforce-gtid-consistency'  => 'true',
       'log-slave-updates'         => 'true',
